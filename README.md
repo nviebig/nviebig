@@ -47,13 +47,4 @@ My focus is on making **high-performance atmospheric models differentiable**, en
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=flat-square&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-181717?style=flat-square&logo=gitlab&logoColor=white)
 
----
 
-## 📊 GitHub Activity
-
-![Stats](https://github-readme-stats.vercel.app/api?username=nviebig&theme=vue&hide_border=false&include_all_commits=true&count_private=true)
-![Streak](https://nirzak-streak-stats.vercel.app/?user=nviebig&theme=vue&hide_border=false)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nviebig&theme=vue&hide_border=false&layout=compact)
-
-
-![Visitors](https://visitcount.itsvg.in/api?id=nviebig&icon=0&color=0)
