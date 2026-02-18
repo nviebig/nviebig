@@ -3,14 +3,6 @@
 Im Niklas, a Physics MSc student at **ETH Zurich** interested in  **numerical simulation, differentiable models, and scientific machine learning**.
 
 My focus is on making **high-performance atmospheric models differentiable**, enabling gradient-based inference, calibration, and sensitivity analysis in climate and planetary systems.
-
-## 🧠 Research Interests
-
-- Differentiable PDE solvers  
-- Gradient-based optimization & Bayesian inference  
-- High-performance scientific computing  
-- Physics–ML hybrid models  
-
 ---
 
 ## 🌐 Connect
